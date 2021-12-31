@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>83739270343-76hfcqas56ij1ptvhvl9n7fcv76ke3cs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.83739270343-76hfcqas56ij1ptvhvl9n7fcv76ke3cs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOJwJbu2oEZLbV1vVIO0JBbWDHI2Xhzxw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>83739270343</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>BG.HangmanFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>hangman-19fbb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hangman-19fbb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:83739270343:ios:988a88839ac7f385e972e2</string>
+</dict>
+</plist>
